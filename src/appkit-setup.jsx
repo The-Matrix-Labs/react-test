@@ -14,8 +14,8 @@ const projectId = "a002dde9a5dace710ef3557bcb5b65cf";
 const metadata = {
   name: "test",
   description: "AppKit Example",
-  url: "https://reown.com/appkit", // origin must match your domain & subdomain
-  icons: ["https://assets.reown.com/reown-profile-pic.png"],
+  url: "https://walletconnect.ethelitedevs.tech", // origin must match your domain & subdomain
+  icons: ["https://walletconnect.ethelitedevs.tech/vite.svg"],
 };
 
 // 3. Set the networks
